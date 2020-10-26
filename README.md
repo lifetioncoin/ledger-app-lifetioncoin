@@ -1,4 +1,4 @@
-# Ledger boilerplate app
+# ledger-app-lifetioncoin
 
 ## Overview
 This app is a boilerplate for a Nano S/X app.
